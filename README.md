@@ -35,4 +35,4 @@ following code to install the RDataXMan package from GitHub:
 
     # Package devtools is needed to install from GitHub
     # install.packages("devtools")
-    devtools::install_github("nyilin/RDataXMan")
+    devtools::install_github("biostatUniBS/RDataXMan")
